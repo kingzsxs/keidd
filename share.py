@@ -15,6 +15,7 @@ from rich.prompt import Prompt as pp
 GREEN = '\033[92m'
 RED = '\033[91m'
 RESET = '\033[0m'
+r = '\033[0m'
 
 def linex():
 	   print(f'━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
